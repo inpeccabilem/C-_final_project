@@ -1,0 +1,15 @@
+/Users/aleksandrsergeev/final_project_c#/tasks/task1/obj/Debug/net7.0/task1.csproj.AssemblyReference.cache
+/Users/aleksandrsergeev/final_project_c#/tasks/task1/obj/Debug/net7.0/task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrsergeev/final_project_c#/tasks/task1/obj/Debug/net7.0/task1.AssemblyInfoInputs.cache
+/Users/aleksandrsergeev/final_project_c#/tasks/task1/obj/Debug/net7.0/task1.AssemblyInfo.cs
+/Users/aleksandrsergeev/final_project_c#/tasks/task1/obj/Debug/net7.0/task1.csproj.CoreCompileInputs.cache
+/Users/aleksandrsergeev/final_project_c#/tasks/task1/bin/Debug/net7.0/task1
+/Users/aleksandrsergeev/final_project_c#/tasks/task1/bin/Debug/net7.0/task1.deps.json
+/Users/aleksandrsergeev/final_project_c#/tasks/task1/bin/Debug/net7.0/task1.runtimeconfig.json
+/Users/aleksandrsergeev/final_project_c#/tasks/task1/bin/Debug/net7.0/task1.dll
+/Users/aleksandrsergeev/final_project_c#/tasks/task1/bin/Debug/net7.0/task1.pdb
+/Users/aleksandrsergeev/final_project_c#/tasks/task1/obj/Debug/net7.0/task1.dll
+/Users/aleksandrsergeev/final_project_c#/tasks/task1/obj/Debug/net7.0/refint/task1.dll
+/Users/aleksandrsergeev/final_project_c#/tasks/task1/obj/Debug/net7.0/task1.pdb
+/Users/aleksandrsergeev/final_project_c#/tasks/task1/obj/Debug/net7.0/task1.genruntimeconfig.cache
+/Users/aleksandrsergeev/final_project_c#/tasks/task1/obj/Debug/net7.0/ref/task1.dll
